@@ -3,7 +3,6 @@
 A collection of concise and practical cheatsheets for popular programming languages and technologies.  
 This repository is designed to help students, beginners, and developers quickly revise syntax, concepts, and common use cases.
 
----
 
 ## 🚀 Languages Covered
 
@@ -18,7 +17,6 @@ This repository currently includes cheatsheets for:
 
 More languages and tools may be added in the future.
 
----
 
 ## 🤝 Contributions
 
@@ -33,7 +31,6 @@ If you want to improve existing cheatsheets or add new ones:
 
 Please ensure content is clear, accurate, and well-formatted.
 
----
 
 ## 📌 Future Plans
 
@@ -42,12 +39,11 @@ Please ensure content is clear, accurate, and well-formatted.
 - Include problem-solving tips
 - Add interview-focused content
 
----
 
 ## ⭐ Support
 
 If you find this repository helpful, please consider giving it a star ⭐  
 It motivates me to keep improving and adding more content.
 
----
+
 
